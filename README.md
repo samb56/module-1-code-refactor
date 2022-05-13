@@ -6,4 +6,4 @@
 - organized style elements by sequential order
 - removed excess text within code
 [HoriseonLiveSite](http://samb56.github.io/module-1-code-refactor)
-![screen shot](screenshot.jpg)
+![screen shot](screenshot.JPG)
